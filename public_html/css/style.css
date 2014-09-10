@@ -1,9 +1,22 @@
 body {
-    background-color:blue
+    background-color:gold
 }
  p a { 
     color: red
+ }
+ 
 #current-link{
     text-decoration: none;
 } 
-uppercase {text-transform: uppercase;font-size: 40xp;}
+uppercase {
+    text-transform: uppercase
+    font-size: 40px;
+}
+project-img {
+    width: 800px;
+    height: auto;
+    padding-left: 5px;
+    padding-top: 6px;
+    margin-top: 8px;
+}
+               
