@@ -1,15 +1,15 @@
-body {
-    background-color:gold
+a {
+    color: whitesmoke
 }
  p a { 
-    color: red
+    color: orange
  }
  
 #current-link{
     text-decoration: none;
 } 
 uppercase {
-    text-transform: uppercase
+    text-transform: uppercase;
     font-size: 40px;
 }
 project-img {
@@ -20,3 +20,10 @@ project-img {
     margin-top: 8px;
 }
                
+html { 
+  background: url(http://fc08.deviantart.net/fs71/f/2012/276/3/d/sword_art_online_by_ryshin-d5gnqrd.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
